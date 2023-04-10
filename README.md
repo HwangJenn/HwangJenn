@@ -1,11 +1,13 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hello+there👋+Welcome+to+HwangJenn's+GitHub❤️&fontSize=30)
+  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HwangJenn/HwangJenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on .
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
