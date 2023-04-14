@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hello+there👋+Welcome+to+HwangJenn's+GitHub❤️&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hello+there👋+Welcome+to+JiHyun's+GitHub❤️&fontSize=30)
   
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
