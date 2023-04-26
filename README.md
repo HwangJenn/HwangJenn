@@ -19,11 +19,8 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=/IntelliJ IDEA&logoColor=white" />
  </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJenn&show_icons=true&bg_color=00000000&line_height=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJenn&layout=compact)
 
 <!--
 **HwangJenn/HwangJenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
