@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
  </div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJenn&show_icons=true&bg_color=00000000&line_height=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJenn&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JXHXXN&show_icons=true&bg_color=00000000&line_height=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JXHXXN&layout=compact)
 
 
 <!--
